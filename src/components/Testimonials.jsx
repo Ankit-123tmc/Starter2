@@ -54,12 +54,12 @@ const Testimonals = (props) => {
         </button>
       </div>
       
-      <div className='mt-6'>
+      <div className='mt-7'>
         <button
         onClick={surpriseHandler}
         className='bg-violet-400 hover:bg-violet-500 transition-all duration-200 
         cursor-pointer px-10 py-2 rounded-md font-bold text-white text-lg'>
-          Surprise Me 
+          Surprise the next comming
         </button>
       </div>
     </div>
